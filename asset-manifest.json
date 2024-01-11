@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/novan.github.io/static/css/main.0978e828.css",
+    "main.js": "/novan.github.io/static/js/main.01de89d4.js",
+    "index.html": "/novan.github.io/index.html",
+    "main.0978e828.css.map": "/novan.github.io/static/css/main.0978e828.css.map",
+    "main.01de89d4.js.map": "/novan.github.io/static/js/main.01de89d4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0978e828.css",
+    "static/js/main.01de89d4.js"
+  ]
+}
